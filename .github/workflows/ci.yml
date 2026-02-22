@@ -1,4 +1,4 @@
-name: Github hosted Test Project
+name: Github hosted Test Project (This is a test project for github hosted runner)
 
 on:
   pull_request:

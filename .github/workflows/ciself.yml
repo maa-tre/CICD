@@ -1,4 +1,4 @@
-name: Self Runner - Test Project
+name: Self Runner - Test Project and this is a test project for self hosted runner
 
 on:
   pull_request:
